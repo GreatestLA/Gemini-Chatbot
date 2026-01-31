@@ -44,7 +44,7 @@ A simple, fast, and clean chatbot powered by Google's Gemini AI. Chat about anyt
 
 4. **Run the chatbot**
    ```bash
-   python chatbot.py
+   python main.py
    ```
 
 ## 💡 Usage
@@ -80,7 +80,7 @@ Goodbye!
 
 ```
 gemini-chatbot/
-├── chatbot.py          # Main chatbot application
+├── main.py          # Main chatbot application
 ├── requirements.txt    # Python dependencies
 ├── .env               # API key (create this yourself, not in repo)
 ├── .gitignore         # Git ignore file
