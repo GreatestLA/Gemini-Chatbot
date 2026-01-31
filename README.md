@@ -22,18 +22,12 @@ A simple, fast, and clean chatbot powered by Google's Gemini AI. Chat about anyt
 
 ## 🚀 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/gemini-chatbot.git
-   cd gemini-chatbot
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set up your API key**
+2. **Set up your API key**
    - Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
    - Click "Create API key in new project"
    - Copy your API key
@@ -42,7 +36,7 @@ A simple, fast, and clean chatbot powered by Google's Gemini AI. Chat about anyt
      GOOGLE_API_KEY=your_api_key_here
      ```
 
-4. **Run the chatbot**
+3. **Run the chatbot**
    ```bash
    python main.py
    ```
