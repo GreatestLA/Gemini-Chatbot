@@ -128,30 +128,5 @@ llm = ChatGoogleGenerativeAI(model=model, temperature=1.0)  # More creative
 - Check your internet connection
 - Verify your API key is valid
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📧 Contact
-
-Project Link: [https://github.com/yourusername/gemini-chatbot](https://github.com/yourusername/gemini-chatbot)
-
-## 🙏 Acknowledgments
-
-- Google Gemini team for the amazing AI model
-- LangChain community for the excellent framework
-- All contributors and users of this project
-
----
-
-Made with ❤️ and Python
+Note: Portions of this code were generated with the assistance of Claude AI. All code has been verified by a human developer.
